@@ -1,5 +1,8 @@
 # Extensión de Navegador Anti-Phishing
 
+![Vista previa de la extensión](images/A01.png)
+
+
 ## Descripción
 
 Esta extensión de navegador anti-phishing está diseñada para proteger a los usuarios de ataques de phishing al detectar y bloquear URLs sospechosas antes de que se carguen en el navegador. La extensión analiza las URLs y el contenido web en tiempo real, alertando a los usuarios sobre posibles amenazas y proporcionando una experiencia de navegación más segura.
