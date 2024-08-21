@@ -1,0 +1,46 @@
+<!-- popup.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anti-Phishing</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            width: 200px;
+            padding: 10px;
+        }
+        h1 {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin-top: 10px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>Anti-Phishing</h1>
+    <p>Status: <span id="status">Active</span></p>
+    <button id="scanNow">Scan Now</button>
+
+    <script src="popup.js"></script>
+</body>
+</html>
