@@ -1,6 +1,6 @@
 # Extensión de Navegador Anti-Phishing
 
-![Vista previa de la extensión](images/A01.png)
+![Vista previa de la extensión](images/A02.png)
 
 
 ## Descripción
